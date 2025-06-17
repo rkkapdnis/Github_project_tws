@@ -1,0 +1,23 @@
+git --version
+   python --version
+   testing.py
+   ls
+   testing.py
+   .\testing.py
+   .\testing.py
+   .\testing.py
+   python .\testing.py
+   python testing.py
+   rm testing.py
+   git init
+   dir
+   dir -a
+   dir -force
+   git status
+   clear
+   ls
+   dir
+   git status
+   git add testing.py
+   git status
+
