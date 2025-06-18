@@ -20,4 +20,5 @@ git --version
    git status
    git add testing.py
    git status
-
+   git commit -m " "
+   git push origin master
