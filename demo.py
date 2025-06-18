@@ -1,7 +1,4 @@
-def myfunction():
-    a=5
-    b=6
-
-    return d
-
-    myfunction()
+a = 5
+b = 6
+d = a + b
+print(d)
